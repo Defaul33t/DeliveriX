@@ -4,7 +4,7 @@
 https://carlgal.com/projects/deliverix/
 
 ### backend
-https://node.carlgal.com/
+https://deliverix-defaul33t.koyeb.app/
 
 _Used technologies: Node.js, Express, MySQL, ejs, JWT, React, Tailwind_
 
